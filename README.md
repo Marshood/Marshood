@@ -114,10 +114,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/marshood/marshood/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/marshood/count.svg?"  />
 </div>
