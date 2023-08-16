@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Hi 👋, I'm Marshood<br>Software Engineering <br> Frond End Developer at VIA<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning flutter, nextjs</p>
+<p align="left">Hi 👋, I'm Marshood<br>Software Engineering <br><br><br>- 🔭 I’m working as  Frond End Developer at VIA<br>- 📚 I'm currently learning flutter, nextjs</p>
 
 ###
 
